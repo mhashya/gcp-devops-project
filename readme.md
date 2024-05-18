@@ -1,1 +1,4 @@
-# This is a repo for our new DevOps project
+# Docker flask application
+
+- This application is written in python.
+- It should be deployed on GKE.
